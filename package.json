@@ -1,7 +1,7 @@
 {
   "name": "flagger",
   "version": "1.0.0",
-  "description": "Easily access all flags and arguments passed into your node program.",
+  "description": "Easily access all flags and arguments passed into your node programs.",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
