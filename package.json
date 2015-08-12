@@ -1,0 +1,24 @@
+{
+  "name": "flagger",
+  "version": "1.0.0",
+  "description": "Easily access all flags and arguments passed into your node program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "flag",
+    "arguments"
+  ],
+  "author": "Will Sutherland",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
